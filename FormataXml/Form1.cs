@@ -18,8 +18,6 @@ namespace FormataXml
             this.lblLog.ForeColor = Color.Red;
             this.ckInputTexto.Checked = true;
             this.ckInputTexto_CheckedChanged(this, null);
-            
-            // TODO - commit no git
         }
 
         private void btnSelecionarArquivo_Click(object sender, EventArgs e)

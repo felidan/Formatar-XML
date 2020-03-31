@@ -28,7 +28,7 @@ Este programa foi desenvolvido com o intuito de formatar XMLs de forma mais prá
 ## Informações
 
 * **Instalável: ** https://github.com/felidan/Formatar-XML/tree/master/publish/
-* Clique [aqui](www.linkedin.com/in/felipe-s-dantas/) para acessar o **Linkedin**.
+* **Linkedin: ** www.linkedin.com/in/felipe-s-dantas/
 
 Author @felidan
 
