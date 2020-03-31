@@ -11,19 +11,19 @@ Este programa foi desenvolvido com o intuito de formatar XMLs de forma mais prá
 ## Exemplos e Telas
 
 **Tela 1**
-![Tela 1](https://github.com/felidan/Formatar-XML/tree/master/Info/1.png)
+![Tela 1](https://github.com/felidan/Formatar-XML/blob/master/Info/1.png)
 
 **Tela 2**
-![Tela 2](https://github.com/felidan/Formatar-XML/tree/master/Info/2.png)
+![Tela 2](https://github.com/felidan/Formatar-XML/blob/master/Info/2.png)
 
 **Tela 3**
-![Tela 3](https://github.com/felidan/Formatar-XML/tree/master/Info/3.png)
+![Tela 3](https://github.com/felidan/Formatar-XML/blob/master/Info/3.png)
 
 **XML Antes**
-![XML Antes](https://github.com/felidan/Formatar-XML/tree/master/Info/Antes.jpg)
+![XML Antes](https://github.com/felidan/Formatar-XML/blob/master/Info/Antes.jpg)
 
 **XML Depois**
-![XML Depois](https://github.com/felidan/Formatar-XML/tree/master/Info/depois.jpg)
+![XML Depois](https://github.com/felidan/Formatar-XML/blob/master/Info/depois.jpg)
 
 ## Informações
 
